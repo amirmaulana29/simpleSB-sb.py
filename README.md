@@ -1,0 +1,2 @@
+# simpleSB-sb.py
+Selfbot
